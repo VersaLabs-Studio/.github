@@ -1,7 +1,7 @@
 <div align="center">
   <h1>VersaLabs Studio</h1>
   <h3>Engineering the Future of Enterprise Systems & AI Infrastructure</h3>
-  <a href="https://versalabs-studio.vercel.app">versalabs-studio.vercel.app</a> | <a href="mailto:kidus489@gmail.com">kidus489@gmail.com</a>
+  <a href="https://versalabs-studio.com">versalabs-studio.vercel.app</a> | <a href="mailto:kidus489@gmail.com">kidus489@gmail.com</a>
 </div>
 
 ---
