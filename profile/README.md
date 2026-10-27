@@ -1,36 +1,26 @@
-<div align="center">
-  <h1>VersaLabs Studio</h1>
-  <h3>Engineering the Future of Enterprise Systems & AI Infrastructure</h3>
-  <a href="https://versalabs-studio.com">versalabs-studio.vercel.app</a> | <a href="mailto:kidus489@gmail.com">kidus489@gmail.com</a>
-</div>
+# VersaLabs Studio
 
----
+We design and build custom business software: ERP systems, e-commerce stores, AI tools and websites. Based in
+Addis Ababa, Ethiopia.
 
-> **VersaLabs** is a premium product studio specializing in high-performance enterprise systems, autonomous AI workflows, and schema-first architectural design. Founded by Lead AI SWE Kidus Abdula, we operate at the intersection of applied machine learning and scalable software engineering.
+[versalabs-studio.com](https://www.versalabs-studio.com) · [Start a Project](https://www.versalabs-studio.com/contact)
 
-### ⚙️ Core Infrastructure & Capabilities
-We utilize a ruthless, zero-bloat approach to software engineering.
-* **AI & Orchestration:** Custom LLM routing chains (OpenRouter), Agentic Workflows, Model Context Protocol (MCP), and applied ML algorithms (Isolation Forest, Autoencoders).
-* **Enterprise Full-Stack:** Next.js 16 App Router, TypeScript, TanStack Query, schema-driven dynamic UIs.
-* **Backend Architecture:** Frappe Framework (Python), Supabase, strict PostgreSQL schema enforcement, and Domain-Driven Design (DDD).
-* **DevOps:** VPS self-hosting, Docker orchestration, Vercel edge deployments.
+## Selected Work
 
----
+| Project | What it is |
+| :--- | :--- |
+| [Obsidian ERP](https://www.versalabs-studio.com/projects/obsidian-erp) | Run your whole business from one place. Obsidian connects sales, buying, stock, production and accounting, and one-click steps cut the busywork. |
+| [SafeFrame](https://www.versalabs-studio.com/projects/safeframe) | Checks videos for adult content right on the phone or laptop. Nothing is uploaded, so a child's screen stays private. |
+| [PrintOnline.et](https://www.versalabs-studio.com/projects/printonline-et) | Order printing online with instant prices, secure Chapa payments and live order tracking, delivered across Addis Ababa. |
+| [Pana Sports](https://www.versalabs-studio.com/projects/pana-sport) | A home for Ethiopian football fans: live scores, league tables, team and player profiles, and news, in English and Amharic. |
+| [OSKAZ E-Commerce](https://www.versalabs-studio.com/projects/oskaz-ecommerce) | An online store connected live to the company's ERP. Customers see real stock and prices, order in a few clicks, and pay on delivery. |
+| [ThreatMatrix AI](https://www.versalabs-studio.com/projects/threatmatrix-ai) | A network security platform that spots unusual traffic and explains each alert in plain language. Built as a university senior project by a team of four. |
+| [JARVIS](https://www.versalabs-studio.com/projects/jarvis) | Our in-house AI assistant. Ask it on Telegram, web or mobile, and it plans work, reviews code and runs our daily routines. |
 
-### 🚀 Flagship Architecture Showcase
+All 21 projects are on [the studio page](https://www.versalabs-studio.com/studio).
 
-| Project | Domain | Architecture Highlights | Status |
-| :--- | :--- | :--- | :--- |
-| **JARVIS v1.0** | Autonomous SWE Infrastructure | Self-hosted orchestration gateway, multi-agent coherence via OpenRouter fallback chains, deep MCP tool integration. | `Active Core` |
-| **ThreatMatrix AI** | Enterprise Cybersecurity | Real-time network anomaly detection, multi-model ML backend, automated LLM incident response narratives. | `Proprietary` |
-| **Obsidian ERP v3.0** | Enterprise Resource Planning | Frappe backend API integration, schema-first Next.js frontend, strictly typed DDD modules. | `Production` |
-| **Pana Sports** | National Sports Hub | High-traffic CMS, real-time match tracking, multi-lingual dynamic routing, Postgres data modeling. | `Production` |
+## About
 
----
-
-### 📥 Connect & Collaborate
-VersaLabs handles select B2B engineering contracts, rapid MVP blitz-sprints, and enterprise architecture consulting. 
-
-**Lead Architect:** Kidus Abdula  
-**Contact:** [kidus489@gmail.com](mailto:kidus489@gmail.com)  
-**Studio Website:** [versalabs-studio.vercel.app](https://versalabs-studio.vercel.app)
+Founded in 2023 by [Kidus Abdula](https://github.com/kidusabdula). To talk about a project, use
+[the contact page](https://www.versalabs-studio.com/contact) or write to
+[contact@versalabs-studio.com](mailto:contact@versalabs-studio.com).
